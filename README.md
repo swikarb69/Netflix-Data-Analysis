@@ -92,4 +92,4 @@ jupyter notebook Netflix_Data_Analysis.ipynb
 
 **Your Name**
 - GitHub: [@swikarb69](https://github.com/swikarb69)
-- LinkedIn: [Swikar Bhattarai](https://linkedin.com/in/swikar-bhattarai)
+- LinkedIn: [Swikar Bhattarai](https://linkedin.com/in/swikar-bhattarai-11178b240)
