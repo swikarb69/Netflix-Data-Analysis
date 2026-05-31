@@ -1,3 +1,6 @@
+## 📓 View Notebook
+👉 [Click here to view the notebook](https://nbviewer.org/github/swikarb69/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis_GRAPH.ipynb)
+
 # 🎬 Netflix Data Analysis
 
 An exploratory data analysis (EDA) of Netflix's content library using Python. This project analyzes trends in genres, countries, release years, content types, and movie durations through data cleaning and visualization.
