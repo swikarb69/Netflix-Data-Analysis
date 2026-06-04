@@ -22,12 +22,13 @@ An exploratory data analysis (EDA) of Netflix's content library using Python. Th
 
 ```
 Netflix-Data-Analysis/
-│
-├── README.md
-├── requirements.txt
-├── Netflix_Data_Analysis.ipynb
 └── data/
     └── netflix_titles.csv
+│
+├── Netflix Data Analysis_GRAPH.ipynb
+├── README.md
+├── requirements.txt
+
 ```
 
 ---
@@ -57,7 +58,7 @@ Netflix-Data-Analysis/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/Netflix-Data-Analysis.git
+git clone https://github.com/swikarb69/Netflix-Data-Analysis.git
 cd Netflix-Data-Analysis
 ```
 
@@ -89,6 +90,6 @@ jupyter notebook Netflix_Data_Analysis.ipynb
 
 ## 👤 Author
 
-**Your Name**
+**Swikar Bhattarai**
 - GitHub: [@swikarb69](https://github.com/swikarb69)
 - LinkedIn: [Swikar Bhattarai](https://linkedin.com/in/swikar-bhattarai-11178b240)
