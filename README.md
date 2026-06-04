@@ -1,5 +1,4 @@
 ## 📓 View Notebook
-👉 [Click here to view the notebook](https://nbviewer.org/github/swikarb69/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis_GRAPH.ipynb)
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/swikarb69/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis_GRAPH.ipynb)
 
